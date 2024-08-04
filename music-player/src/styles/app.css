@@ -6,8 +6,10 @@
 }
 
 body {
-  background: #ceba0c;
-  background: linear-gradient(180deg, rgb(231, 235, 214) 0%, rgb(230, 6, 6) 100%);
+  background-image: url("https://i.imgur.com/AtlmXGS.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 /* FileName: library.scss */
@@ -190,7 +192,10 @@ input[type=range]::-webkit-slider-thumb {
 }
 
 /*FileName: nav.scss */
-h1,
+h1 {
+  padding-right: 270px;
+}
+
 h4 {
   color: rgb(9, 70, 9);
 }
@@ -198,7 +203,7 @@ h4 {
 nav {
   min-height: 10vh;
   display: flex;
-  justify-content: center;
+  justify-content: right;
   align-items: center;
   margin: 20px;
 }

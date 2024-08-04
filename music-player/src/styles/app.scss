@@ -7,12 +7,11 @@
     font-family: "Gilroy", sans-serif;
 }
 body {
-    background: rgb(174, 201, 54);
-    background: linear-gradient(
-        180deg,
-        rgba(231, 235, 214, 1) 0%,
-        rgb(230, 6, 6) 100%
-    );
+    background-image: url('https://i.imgur.com/AtlmXGS.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
 }
 
 @import "./library";

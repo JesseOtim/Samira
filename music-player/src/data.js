@@ -6,7 +6,7 @@ function chillHop() {
     {
       name: "Sunrise Serenade",
       cover:
-"https://i.imgur.com/bUD2q0B.jpeg",
+"https://i.imgur.com/zFV6DUF.png",
       artist: " Harmony Harp",
       audio:
 "https://media.geeksforgeeks.org/wp-content/uploads/20231004185212/Jawan-Prevue-Theme.mp3",
