@@ -1,0 +1,19 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.player {
+  margin: 20px;
+}
+
+.song-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.song-list li {
+  cursor: pointer;
+  margin: 10px 0;
+}
