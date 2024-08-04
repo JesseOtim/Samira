@@ -1,0 +1,40 @@
+/*FileName: nav.scss */
+
+h1{
+    padding-right: 270px;
+}
+
+h4 {
+    color: rgb(9, 70, 9);
+   
+}
+
+nav {
+    min-height: 10vh;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin: 20px;
+    button {
+        background: transparent;
+        border: none;
+        border-radius: 25%;
+        cursor: pointer;
+        font-size: 16px;
+        margin-left: 20%;
+        border: 1px solid rgb(41, 216, 25);
+        padding: 0.8rem;
+        transition: all 0.3s ease;
+        &:hover {
+            background: #ceba0c;
+            color: white;
+        }
+    }
+}
+@media screen and (max-width: 768px) {
+    nav {
+        button {
+            z-index: 10;
+        }
+    }
+}

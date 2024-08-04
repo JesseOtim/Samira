@@ -1,4 +1,6 @@
-/* src/App.css */
+body{
+  background-color: orangered;
+}
 .App {
   text-align: center;
   font-family: Arial, sans-serif;
