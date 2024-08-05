@@ -11,7 +11,7 @@ const Nav = ({ setLibraryStatus, libraryStatus }) => {
                     setLibraryStatus(!libraryStatus);
                 }}
             >
-                <h4>Collection</h4>
+                <h4>Library</h4>
             </button>
         </nav>
     );
