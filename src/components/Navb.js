@@ -1,4 +1,3 @@
-// FileName: Navb.js
 
 import React from "react";
 
