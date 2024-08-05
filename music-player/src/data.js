@@ -1,13 +1,12 @@
-// FileName: data.js
 
 import { v4 as uuidv4 } from "uuid";
 function chillHop() {
   return [
     {
-      name: "Sunrise Serenade",
+      name: "♩ Sunrise Serenade ♩",
       cover:
-"https://i.imgur.com/zFV6DUF.png",
-      artist: " Harmony Harp",
+"https://i.imgur.com/dM2wZVc.png",
+      artist: "Harmony Harp",
       audio:
 "https://media.geeksforgeeks.org/wp-content/uploads/20231004185212/Jawan-Prevue-Theme.mp3",
       color: ["#205950", "#2ab3bf"],
@@ -15,9 +14,9 @@ function chillHop() {
       active: true,
     },
     {
-      name: "Urban Groove",
+      name: "♩ Urban Groove ♩",
       cover:
-        "https://media.geeksforgeeks.org/wp-content/uploads/20231004210806/DemotivationalPosterfull936506.jpg",
+        "https://i.imgur.com/zFV6DUF.png ",
       artist: "Beatmaster B",
       audio:
         "https://media.geeksforgeeks.org/wp-content/uploads/20231004184006/SoundHelix-Song-10.mp3",
@@ -26,9 +25,9 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Mystic Echo",
+      name: "♩ Mystic Echo ♩",
       cover:
-"https://media.geeksforgeeks.org/wp-content/uploads/20231004210619/3408428b23c516b1687c748cb7de7be7.webp",
+"https://i.imgur.com/3L5q5ib.png",
       artist: " Harmony Harp",
       audio:
 "https://media.geeksforgeeks.org/wp-content/uploads/20231004185212/Jawan-Prevue-Theme.mp3",
@@ -37,9 +36,9 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Electro Vibes",
+      name: "♩ Electro Vibes ♩",
       cover:
-"https://media.geeksforgeeks.org/wp-content/uploads/20231004184219/gfglogo0.jpg",
+"https://i.imgur.com/bmIiPsQ.png",
       artist: "Synthwave Sensation",
       audio:
 "https://media.geeksforgeeks.org/wp-content/uploads/20231004191840/Zinda-Banda---Jawan-(1).mp3",
@@ -48,9 +47,9 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Jazzy Whispers",
+      name: "♩ Jazzy Whispers ♩",
       cover:
-"https://media.geeksforgeeks.org/wp-content/uploads/20231004210806/DemotivationalPosterfull936506.jpg",
+"https://i.imgur.com/rGzljQQ.png",
       artist: "Smooth Sax Serenade",
       audio:
 "https://media.geeksforgeeks.org/wp-content/uploads/20231004184006/SoundHelix-Song-10.mp3",
@@ -59,9 +58,9 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Tropical Breez",
+      name: "♩ Tropical Breez ♩",
       cover:
-"https://media.geeksforgeeks.org/wp-content/uploads/20231004210619/3408428b23c516b1687c748cb7de7be7.webp",
+"https://i.imgur.com/R87o96p.png",
       artist: "Island Rhythms",
       audio:
 "https://media.geeksforgeeks.org/wp-content/uploads/20231004191840/Zinda-Banda---Jawan-(1).mp3",

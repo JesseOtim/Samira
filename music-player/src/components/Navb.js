@@ -5,13 +5,13 @@ import React from "react";
 const Nav = ({ setLibraryStatus, libraryStatus }) => {
     return (
         <nav>
-            <h1>Samira</h1>
+            <h1>♩ AudioSAM🔊</h1>
             <button
                 onClick={() => {
                     setLibraryStatus(!libraryStatus);
                 }}
             >
-                <h4>Library</h4>
+                <h4>Collection</h4>
             </button>
         </nav>
     );
